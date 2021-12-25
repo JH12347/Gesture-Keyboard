@@ -1,4 +1,4 @@
 # Gesture-Keyboard
 
-This is an arduino project /n
+This is an arduino project
 You can use the codes
